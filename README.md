@@ -1,11 +1,3 @@
-6.25 
-1.前端137分钟 了解网络连接历程 html css php mysql jsp 到底是什么以及一些涉及网络的知识
-
-2.html中的各个标签
-
-3.服务器和脚本需要深入
-
-4.服务器和游览器还有数据库之间的联系问题
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/luoyinyiyu/luoyinyiyu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
